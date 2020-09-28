@@ -53,8 +53,9 @@ class DATA_LOADER(object):
         elif self.dataset == 'AWA2':
             self.datadir = self.data_path + '/AWA2/'
         elif self.dataset == 'ImageNet':
-            self.data_path = "/dlc/OpenData/"
-            self.datadir = self.data_path + '/ImageNet'
+            self.data_path = "/ibex/scratch/yik/ImageNet-ZSL-Dataset"
+            # self.datadir = self.data_path + '/ImageNet'
+            self.datadir = self.data_path
 
         if self.dataset == 'ImageNet':
             self.read_imagenet_matdataset()

@@ -1,0 +1,1 @@
+python single_experiment.py --dataset ImageNet --num_shots 0 --generalized True
