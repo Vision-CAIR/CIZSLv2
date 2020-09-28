@@ -1,4 +1,6 @@
-# CIZSL
+# CIZSL.v2
+This readme is based on CIZSL.v1. Will update the introduction of CIZSL.v2 soon.
+
 [Creativity Inspired Zero-Shot Learning](https://arxiv.org/pdf/1904.01109.pdf)
 
 Please contact us at m.elfeki11@gmail.com and mohamed.elhoseiny@gmail.com for questions.  The initial version of the code was written by Mohamed Elhoseiny and then it was followed by several improvements written by Mohamed Elfeki. 
