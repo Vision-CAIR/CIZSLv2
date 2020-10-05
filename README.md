@@ -1,5 +1,5 @@
 # CIZSL.v2
-This readme is based on CIZSL.v1. Will update the introduction of CIZSL.v2 soon.
+This readme is based on CIZSL.v1. Will update the introduction of CIZSL.v2 soon.    
 
 [Creativity Inspired Zero-Shot Learning](https://arxiv.org/pdf/1904.01109.pdf)
 
