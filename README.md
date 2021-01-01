@@ -1,5 +1,9 @@
 # CIZSL.v2
 
+CIZSL++: Creativity Inspired Generative Zero-shot Learning, Mohamed Elhoseiny, Kai Yi, Mohamed Elfeki, Arxiv, 2020
+
+
+
 ## TODO
 ZSL+DG experiments of CIZSL.
 
