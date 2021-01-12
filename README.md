@@ -29,14 +29,14 @@ Please put the uncompressed data to the folder "data".
 
 If you find this code is useful, please cite:
 
-'''
+```
 @article{elhoseiny2021cizsl++,
   title={CIZSL++: Creativity Inspired Generative Zero-Shot Learning},
   author={Elhoseiny, Mohamed and Yi, Kai and Elfeki, Mohamed},
   journal={arXiv preprint arXiv:2101.00173},
   year={2021}
 }
-'''
+```
 
 
 
