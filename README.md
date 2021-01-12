@@ -16,10 +16,10 @@ Please put the uncompressed data to the folder "data".
 
 # Reproduce Key Results
 ### CIZSLv1 updated version
-'python train_CIZSL.py --dataset CUB --splitmode 'hard' --creativity_weight 0.1'
-'python train_CIZSL.py --dataset CUB --splitmode 'easy' --creativity_weight 0.0001'
-'python train_CIZSL.py --dataset NAB --splitmode 'hard' --creativity_weight 0.1'
-'python train_CIZSL.py --dataset NAB --splitmode 'easy' --creativity_weight 1'
+'python train_CIZSL.py --dataset CUB --splitmode 'hard' --creativity_weight 0.1'              
+'python train_CIZSL.py --dataset CUB --splitmode 'easy' --creativity_weight 0.0001'                 
+'python train_CIZSL.py --dataset NAB --splitmode 'hard' --creativity_weight 0.1'                
+'python train_CIZSL.py --dataset NAB --splitmode 'easy' --creativity_weight 1'           
 
 ### TODO
 
