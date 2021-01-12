@@ -16,10 +16,12 @@ Please put the uncompressed data to the folder "data".
 
 # Reproduce Key Results
 ### CIZSLv1 updated version
-'python train_CIZSL.py --dataset CUB --splitmode 'hard' --creativity_weight 0.1'              
-'python train_CIZSL.py --dataset CUB --splitmode 'easy' --creativity_weight 0.0001'                 
-'python train_CIZSL.py --dataset NAB --splitmode 'hard' --creativity_weight 0.1'                
-'python train_CIZSL.py --dataset NAB --splitmode 'easy' --creativity_weight 1'           
+`
+python train_cizslv2.py --dataset 'CUB' --splitmode 'easy' --creativity_weight 1  --exp_name 'cizslv2'
+python train_cizslv2.py --dataset 'CUB' --splitmode 'hard' --creativity_weight 0.1  --exp_name 'cizslv2'
+python train_cizslv2.py --dataset 'NAB' --splitmode 'easy' --creativity_weight 0.001  --exp_name 'cizslv2'
+python train_cizslv2.py --dataset 'NAB' --splitmode 'hard' --creativity_weight 1  --exp_name 'cizslv2'
+`        
 
 ### TODO
 
@@ -29,14 +31,14 @@ Please put the uncompressed data to the folder "data".
 
 If you find this code is useful, please cite:
 
-```
+`
 @article{elhoseiny2021cizsl++,
   title={CIZSL++: Creativity Inspired Generative Zero-Shot Learning},
   author={Elhoseiny, Mohamed and Yi, Kai and Elfeki, Mohamed},
   journal={arXiv preprint arXiv:2101.00173},
   year={2021}
 }
-```
+`
 
 
 
